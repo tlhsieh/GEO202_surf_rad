@@ -1,6 +1,5 @@
-dependencies:
-  - numpy
-  - xarray
-  - matplotlib
-  - datetime
-  - pandas
+numpy
+xarray
+matplotlib
+datetime
+pandas
