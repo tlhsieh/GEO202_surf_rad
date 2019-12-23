@@ -1,0 +1,8 @@
+name: surf_rad
+
+dependencies:
+  - numpy
+  - xarray
+  - matplotlib
+  - datetime
+  - pandas
